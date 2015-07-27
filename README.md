@@ -1,2 +1,2 @@
 # franko-m3
-Artwork
+Este es mi primer repositorio y estará dedicado al artwork, principalmente wallpapers.
